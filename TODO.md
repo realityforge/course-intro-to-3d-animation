@@ -4,7 +4,6 @@ A simple way to keep track of work that I want to complete.
 
 ## General
 
-* Figure out how the course expects us to arrange files on filesystem and adopt if useful
 * Consider having multiple versions of each model.
   These versions could be could be stored:
   - within a single file in different collections,
