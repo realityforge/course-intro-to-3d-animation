@@ -19,4 +19,4 @@ A simple way to keep track of work that I want to complete.
 
 * Use Sculpting for rock-climbing wall in fort
 * Add Seesaw Model
-* Add some trees and/or bushes and/or mushrooms.
+* Add some trees and/or bushes and/or mushrooms and/or flowers.
