@@ -54,3 +54,8 @@ A simple way to keep track of work that I want to complete.
 ### Idea 2
 
 * The ball is the trickster. It can self bounce. The closing shot is off the ball opening it's eyes and winking at the camera.
+
+### Idea 3
+
+* The story of a ball that wants to go through a baskball hoop and tries successive sequences to get enough power to do so.
+* The zolly occurs to the third party who is watching
