@@ -17,7 +17,6 @@ A simple way to keep track of work that I want to complete.
 
 ## Modelling
 
-* Add Seesaw Model
 * Add some trees and/or bushes and/or mushrooms and/or flowers.
 
 ## Animation Ideas
