@@ -1,3 +1,5 @@
 *.blend1
 /*.iml
 /.idea
+# Ignore the final renders as they should not be checked in
+/Finals
