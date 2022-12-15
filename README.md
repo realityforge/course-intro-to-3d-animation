@@ -8,16 +8,7 @@ The course description is
 
 However the course seems to have changed since this description was written as the course is now Blender based...
 
-And here is the animation that came out of the course:
+The animation produced by this course was largely self-directed but my animation looked like:
 
-<video src='https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/Short.mp4' width=180/></video>
+https://user-images.githubusercontent.com/11840/207819994-9de41372-0c34-4d7a-a1d7-47112804bcc6.mp4
 
-<video src='https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/ShortV2.mp4' width=180/></video>
-
-<video src='https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/ShortV3.mp4' width=180/></video>
-
-https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/Short.mp4
-
-https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/ShortV2.mp4
-
-https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/ShortV3.mp4
