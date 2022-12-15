@@ -7,3 +7,7 @@ The course description is
 > This beginner course has been designed to develop skills and knowledge in 3D animation using Autodesk Maya, the most widely used 3D animation software used in the games, visual effects and simulation industries. At the end of the course you will have a completed short animation sequence using your own modelled and animated 3D assets.
 
 However the course seems to have changed since this description was written as the course is now Blender based...
+
+And here is the animation that came out of the course:
+
+https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/Short.mp4
