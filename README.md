@@ -10,5 +10,4 @@ However the course seems to have changed since this description was written as t
 
 The animation produced by this course was largely self-directed but my animation looked like:
 
-https://user-images.githubusercontent.com/11840/207819994-9de41372-0c34-4d7a-a1d7-47112804bcc6.mp4
-
+https://user-images.githubusercontent.com/11840/207829452-f6e3999a-dbc3-4348-8401-cf841ae999e1.mp4
