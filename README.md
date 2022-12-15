@@ -13,3 +13,5 @@ And here is the animation that came out of the course:
 https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/Short.mp4
 
 https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/ShortV2.mp4
+
+https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/ShortV3.mp4
