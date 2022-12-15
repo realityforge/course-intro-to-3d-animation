@@ -10,6 +10,12 @@ However the course seems to have changed since this description was written as t
 
 And here is the animation that came out of the course:
 
+<video src='https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/Short.mp4' width=180/></video>
+
+<video src='https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/ShortV2.mp4' width=180/></video>
+
+<video src='https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/ShortV3.mp4' width=180/></video>
+
 https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/Short.mp4
 
 https://github.com/realityforge/course-intro-to-3d-animation/raw/main/Finals/ShortV2.mp4
