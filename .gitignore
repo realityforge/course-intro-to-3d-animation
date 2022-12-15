@@ -1,5 +1,7 @@
 *.blend1
 /*.iml
 /.idea
-# Ignore the final renders as they should not be checked in
-/Finals
+# Ignore the intermediates for final renders as they should not be checked in
+/Finals/**
+# But let's check in render as it seems they will be small enough
+!Finals/*.mp4
